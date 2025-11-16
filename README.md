@@ -68,7 +68,8 @@ Full Wave rectifier with filter:
 
 ![57b904f0-e694-47ee-8572-681e259ac8fd](https://github.com/user-attachments/assets/c06bb4e3-143d-46a2-903a-489db4da342d)
 
-![Uploading d3cf3bc5-0ff3-42b3-bb2b-826da4e40e64.jpg…]()
+![d3cf3bc5-0ff3-42b3-bb2b-826da4e40e64](https://github.com/user-attachments/assets/4aff8575-f12b-4ced-a36c-69034b52345a)
+
 
 ![8e876e19-0955-434c-b251-0b8be0920f6e](https://github.com/user-attachments/assets/d2444496-1d10-48a5-8cc8-f492bf92df17)
 
